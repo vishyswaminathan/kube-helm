@@ -1,5 +1,6 @@
-CICD FOR CONTAINERS
+CICD FOR CONTAINERS  
 ===================
+ARCHITECTURE DIAGRAM : ![1CICD](https://github.com/user-attachments/assets/46d84d26-2556-43ff-a9af-e8826ff94ac8)
 
 
 Description : 
